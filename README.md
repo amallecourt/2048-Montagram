@@ -19,10 +19,8 @@ Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://gith
 
 ### Screenshot
 
-![Alt text](/style/2048_perso.png?raw=true "Optional Title")
-
 <p align="center">
-  <img src="http://pictures.gabrielecirulli.com/2048-20140309-234100.png" alt="Screenshot"/>
+  ![Alt text](/style/2048_perso.png?raw=true "Optional Title")
 </p>
 
 ## License
