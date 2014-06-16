@@ -1,6 +1,6 @@
 # 2048 - MONTAGRAM
 
-This is an alternative version of the initial [2048](http://gabrielecirulli.github.io/2048/) created by [gabrielecirulli](https://github.com/gabrielecirulli) (on github). I just changed some details. I changed the titles and texts, and I added images to the icons until the 2048 icon. I developped this version in order to promote an application called [MONTAGRAM] in which I participated with other developpers. You can find a beta test of the application (http://montagram.herokuapp.com/) and the source code (https://bitbucket.org/montagram). The goal is to recognize mountains from user's pictures.
+This is an alternative version of the initial [2048](http://gabrielecirulli.github.io/2048/) created by [gabrielecirulli](https://github.com/gabrielecirulli). I just changed some details. I changed titles and texts, and I added images to the icons until the 2048 icon. I developped this version in order to promote an application called [MONTAGRAM] in which I participated with other developpers. You can find a beta test of the application (http://montagram.herokuapp.com/) and the source code (https://bitbucket.org/montagram). The goal is to recognize mountains from user's pictures.
 
 2048 original version is a small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
 
