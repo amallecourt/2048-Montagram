@@ -19,9 +19,9 @@ Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://gith
 
 ### Screenshot
 
-<p align="center">
+<div align="center">
   ![Alt text](/style/2048_perso.png?raw=true "Optional Title")
-</p>
+</div>
 
 ## License
 2048 (Original version) is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
