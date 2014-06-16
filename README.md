@@ -1,7 +1,10 @@
-# 2048
-A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
+# 2048 - MONTAGRAM
 
-Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
+This is an alternative version of the initial [2048](http://gabrielecirulli.github.io/2048/) created by [gabrielecirulli](https://github.com/gabrielecirulli) (on github). I just changed some details. I changed the titles and texts, and I added images to the icons until the 2048 icon. I developped this version in order to promote an application called [MONTAGRAM] in which I participated with other developpers. You can find a beta test of the application (http://montagram.herokuapp.com/) and the source code (https://bitbucket.org/montagram). The goal is to recognize mountains from user's pictures.
+
+2048 original version is a small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
+
+The original version : [Play it here!](http://gabrielecirulli.github.io/2048/)
 
 The official app can also be found on the [Play Store](https://play.google.com/store/apps/details?id=com.gabrielecirulli.app2048) and [App Store!](https://itunes.apple.com/us/app/2048-by-gabriele-cirulli/id868076805)
 
@@ -20,15 +23,5 @@ Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://gith
   <img src="http://pictures.gabrielecirulli.com/2048-20140309-234100.png" alt="Screenshot"/>
 </p>
 
-That screenshot is fake, by the way. I never reached 2048 :smile:
-
-## Contributing
-Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into `master`! If you can, please make sure the game fully works before sending the PR, as that will help speed up the process.
-
-You can find the same information in the [contributing guide.](https://github.com/gabrielecirulli/2048/blob/master/CONTRIBUTING.md)
-
 ## License
-2048 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
-
-## Donations
-I made this in my spare time, and it's hosted on GitHub (which means I don't have any hosting costs), but if you enjoyed the game and feel like buying me coffee, you can donate at my BTC address: `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`. Thank you very much!
+2048 (Original version) is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
